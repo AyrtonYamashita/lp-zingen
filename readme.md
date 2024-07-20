@@ -1,4 +1,4 @@
-<p align="center"><a href="https://ayrtonyamashita.github.io/lp-zingen/"><img src="./assets/icons/Logo.svg"></a></p>
+<p align="center"><a href="https://ayrtonyamashita.github.io/lp-zingen/"><img src="./assets/icons/logo.svg"></a></p>
 
 ## <p align="center">Página com layout de um perfil de viagens</p>
 
